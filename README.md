@@ -11,7 +11,6 @@ The project consists of a feedback widget where the user can submit ideas, probl
 - [ ] Tailwind CSS
 - [ ] Headless UI
 - [ ] Axios
-- [ ] Mailtrap
 
 ## 🛠 Features
 - [ ] Responsive widget
